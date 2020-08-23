@@ -1,0 +1,32 @@
+{ "personae": [
+	{
+		"name" : "Slime",
+		"arcana" : "Fool",
+		"level" : 12,
+		"inherits" : "All",
+		"types" : {"Light":"Weak","Dark":"Resist"},
+		"skills" :  [
+			{"name" : "Single Shot","level" : "0"},
+			{"name" : "Evil Touch","level" : "0"},
+			{"name" : "Maragi","level" : "0"},
+			{"name" : "Raging Tiger","level" : "0"},
+			{"name" : "Eerie Sound","level" : "0"},
+			{"name" : "Survive Light","level" : "0"}
+		]	
+	}, 
+	{
+		"name" : "Orpheus",
+		"arcana" : "Fool",
+		"level" : 25,
+		"inherits" : "All",
+		"types" : {"Elec":"Weak","Dark":"Weak"},
+		"skills" :  [
+			{"name" : "Agi","level" : "0"},
+			{"name" : "Assault Dive","level" : "0"},
+			{"name" : "Dia","level" : "0"},
+			{"name" : "Agilao","level" : "26"},
+			{"name" : "Tarunda","level" : "27"},
+			{"name" : "Swift Strike","level" : "28"}
+		]	
+	}
+]}
